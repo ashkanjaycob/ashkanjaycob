@@ -14,7 +14,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,jquery,react,redux,vue,axios)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,jquery,react,redux,vue)](https://skillicons.dev)
   <br>
 [![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop,uiux)](https://skillicons.dev)
 
