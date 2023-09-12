@@ -13,7 +13,7 @@ ashkanjaycob/ashkanjaycob is a ✨ _special_ ✨ repository because its `README.
 
 - 📫 How to reach me **ashkan.yaghobii@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
 </p>
 
