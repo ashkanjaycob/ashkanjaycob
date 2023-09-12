@@ -12,9 +12,9 @@
 <p align="left">
 </p>
 
-<h2>My Main Coing & Developing Skills :</h2>
+<h2>My Main Coing & Developing Skills :</h2> <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,jquery,react,redux)](https://skillicons.dev)
  <br>
-<h2>My Graphic & UiUx Skills :</h2>
+<h2>My Graphic & UiUx Skills :</h2> <br>
 [![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop,uiux)](https://skillicons.dev)
 
