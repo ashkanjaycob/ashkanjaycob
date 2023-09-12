@@ -1,11 +1,6 @@
-### Hi there 👋
 
-ashkanjaycob/ashkanjaycob is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-<h1 align="center">Hi 👋, I'm Ashkan Yaghobi</h1>
-<h3 align="center">I'm a Junior Front-End Developer & Mid-level Designer.</h3>
+<h1 align="left">Hi 👋, I'm Ashkan Yaghobi</h1>
+<h3 align="left">I'm a Junior Front-End Developer & Mid-level Designer.</h3>
 
 - 🌱 I’m currently learning **React , Redux & Vue**
 
