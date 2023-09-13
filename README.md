@@ -10,7 +10,7 @@
 - 📫 How to reach me **ashkan.yaghobii@gmail.com**
 - 📫 My linkedIn address is **[ashkan.yaghobii@gmail.com**](https://ir.linkedin.com/in/ashkanyaghobi?original_referer=https%3A%2F%2Fwww.google.com%2F)
 
-<h3 align="left">Front-End Development Languages & Graphic & uiux Design Tools :</h3>
+<h3 align="left">Front-End Development Languages , Graphic & uiux Design Tools :</h3>
 <p align="left">
 </p>
 
