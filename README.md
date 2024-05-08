@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Ashkan Yaghobi</h1>
-<h3 align="left">I'm a Junior Front-End Developer & Mid-level Designer.</h3>
+<h3 align="left">I'm a Front-End Developer & Mid-level Designer.</h3>
 
 - 🌱 I’m currently learning **React , Redux**
 - 🌱 I have a little experience in using **Vuejs3 & Vue Router **
@@ -15,7 +15,7 @@
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,jquery,react,redux,github,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,jquery,react,redux,github,wordpress,materialui)](https://skillicons.dev)
  <br>
 
 [![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop,xd,)](https://skillicons.dev)
