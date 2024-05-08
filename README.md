@@ -15,7 +15,7 @@
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,jquery,react,redux,github,wordpress,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,bootstrap,jquery,react,redux,github,wordpress,materialui,)](https://skillicons.dev)
  <br>
 
 [![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop,xd,)](https://skillicons.dev)
