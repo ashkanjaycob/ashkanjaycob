@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Ashkan Yaghobi</h1>
 <h3 align="left">I'm a Front-End Developer & Mid-level Designer.</h3>
 
-- 🌱 I’m currently learning **React , Redux**
+- 🌱 I am familiar with the latest version of React & Next 
 - 🌱 I have a little experience in using **Vuejs3 & Vue Router **
 
 - 📝 My website address is => [https://ashkanyaghobi.ir/](https://ashkanyaghobi.ir/)
