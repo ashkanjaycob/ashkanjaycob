@@ -6,4 +6,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop,xd,figma)](https://skillicons.dev)
 
-![PortalBadge](https://github.com/user-attachments/assets/ac4bbdef-1e71-4914-935b-858cccb0df68)
+## 🏅 Frontend Team Badge
+I’m proud to have earned this badge from my Frontend Team.  
+It represents my contribution, growth, and collaboration in building modern, high-quality user interfaces.  
+<img src="https://github.com/user-attachments/assets/ac4bbdef-1e71-4914-935b-858cccb0df68" alt="Frontend Team Badge" width="80" height="80" />
+
