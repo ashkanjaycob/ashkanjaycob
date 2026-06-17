@@ -10,7 +10,9 @@
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashkanjaycob&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ashkan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanjaycob&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- GitHub Stats with GitHub icon instead of Rank -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ashkanjaycob&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Ashkan's Stats" />
+  
+  <!-- Top Languages with Pie Chart layout -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanjaycob&layout=pie&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
