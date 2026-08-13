@@ -1,4 +1,4 @@
-<h1 align="left">Hi , I'm Ashkan Yagjoobi 👋</h1>
+<h1 align="left">Hi , I'm Ashkan Yaghoobi 👋</h1>
 
 * 🚀 **Software Engineer** specializing in **Frontend** (React, Next.js) and **Backend** (Node.js, Express.js) development.
 * 🛠️ Experienced in building scalable web applications, interactive UIs, and RESTful APIs.
